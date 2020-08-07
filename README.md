@@ -8,7 +8,7 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shabake)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shabake&hide=issues&show_icons=true)]
 
 
 - 🌱 I’m working on a Flutter app Here is my progress
