@@ -30,15 +30,11 @@ My creation :
 
 > 3 Clearly understand the conference room overview through the homepage, including start, end time, conference summary, etc. 
  
-> 4. Quickly view my meeting room collection, I have an organized meeting room
+> 4.Quickly view my meeting room collection, I have an organized meeting room
 
-> 5. If you can't use it, you can easily contact customer service and need help
+> 5.If you can't use it, you can easily contact customer service and need help
 
 ![未标题-2.png](https://upload-images.jianshu.io/upload_images/1419035-a1c93f7e36e90b60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
 [download](https://apps.apple.com/cn/app/id1479323067)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- 🌱 I’m working on a Flutter app Here is my progress
-
-![购物车.png](https://upload-images.jianshu.io/upload_images/1419035-64c74e51374fa3fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
