@@ -26,6 +26,12 @@ Nowadays, there are many otakus in society. Some people stay at home for several
 
 2 Join the conference room to participate in the conference. 
 
+3 Clearly understand the conference room overview through the homepage, including start, end time, conference summary, etc. 
+ 
+4. Quickly view my meeting room collection, I have an organized meeting room
+
+5. If you can't use it, you can easily contact customer service and need help
+
 ![未标题-2.png](https://upload-images.jianshu.io/upload_images/1419035-a1c93f7e36e90b60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
 
