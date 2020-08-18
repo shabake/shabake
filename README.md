@@ -14,7 +14,7 @@ My creation :
 
 > Nowadays, there are many otakus in society. Some people stay at home for several days without going out. The garbage is piled up, and they refuse to go downstairs. This app can solve this problem and can also earn some extra money by the way. The current app uses the community as a pilot. , In a small-scale test, users can fill in basic information and directly post tasks. The minimum payment for each task is five yuan. Currently, it is settled offline. Users can also check the progress of orders. Users can also use the app to pick up nearby You can sort the garbage and process it, or you can recycle it, and you can also earn some extra money.
 
-![未标题-3.png](https://upload-images.jianshu.io/upload_images/668798-34d5b49a2497942e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![未标题-1.png](https://upload-images.jianshu.io/upload_images/668798-7c68d1f422406d60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 [download](https://apps.apple.com/cn/app/懒人帮-垃圾回收/id1470221572)
