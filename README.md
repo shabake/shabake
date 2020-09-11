@@ -32,7 +32,7 @@ Plan to achieve
 
 ```
 
-#### [warehouse](https://github.com/shabake/GHMall)
+#### [Details](https://github.com/shabake/GHMall)
 
 ### My childs :
 
