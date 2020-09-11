@@ -11,6 +11,8 @@
 
 ![2f7f1a6d17a91f4167b85af5a47c65b131f3a64268732-eYhpx3_fw658.png](https://upload-images.jianshu.io/upload_images/668798-3439ff930b8a22cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+```diff
+
 Achieved
 + Realize user registration and login
 + Product browse
@@ -25,6 +27,7 @@ Plan to achieve
 -User address
 -View the user order list
 -User order details
+```
 
 #### [warehouse](https://github.com/shabake/GHMall)
 
