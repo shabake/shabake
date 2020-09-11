@@ -7,6 +7,26 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shabake&hide=issues&show_icons=true)
 
+### Current job
+
+![2f7f1a6d17a91f4167b85af5a47c65b131f3a64268732-eYhpx3_fw658.png](https://upload-images.jianshu.io/upload_images/668798-3439ff930b8a22cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+Achieved
++ Realize user registration and login
++ Product browse
++ Product attribute filtering
++ Add product
++ Increase in shopping cart and reduce items
++ Submit order
++ Adapted to iOS, test simulator iPhone11
+
+Plan to achieve
+-User login verification code countdown
+-User address
+-View the user order list
+-User order details
+
+
 ### My childs :
 
 
