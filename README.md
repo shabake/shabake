@@ -13,7 +13,7 @@
 
 ```diff
 
-* Achieved *
+Achieved
 
 + Realize user registration and login
 + Product browse
@@ -24,6 +24,7 @@
 + Adapted to iOS, test simulator iPhone11
 
 Plan to achieve
+
 - User login verification code countdown
 - User address
 - View the user order list
