@@ -23,10 +23,11 @@ Achieved
 + Adapted to iOS, test simulator iPhone11
 
 Plan to achieve
--User login verification code countdown
--User address
--View the user order list
--User order details
+- User login verification code countdown
+- User address
+- View the user order list
+- User order details
+
 ```
 
 #### [warehouse](https://github.com/shabake/GHMall)
