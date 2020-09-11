@@ -13,7 +13,8 @@
 
 ```diff
 
-Achieved
+* Achieved *
+
 + Realize user registration and login
 + Product browse
 + Product attribute filtering
