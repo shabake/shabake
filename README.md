@@ -7,7 +7,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shabake&hide=issues&show_icons=true)
 
-### Current job
+### Current Job
 
 ![2f7f1a6d17a91f4167b85af5a47c65b131f3a64268732-eYhpx3_fw658副本.png](https://upload-images.jianshu.io/upload_images/668798-fe7c1d5f80822290.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -32,7 +32,7 @@ Plan to achieve
 
 ```
 
-#### [**Details**](https://github.com/shabake/GHMall)
+#### [**View**](https://github.com/shabake/GHMall)
 
 ### My childs :
 
@@ -44,7 +44,7 @@ Plan to achieve
 ![未标题-1.png](https://upload-images.jianshu.io/upload_images/668798-7c68d1f422406d60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-#### [**download**](https://apps.apple.com/cn/app/懒人帮-垃圾回收/id1470221572)
+#### [**AppStore**](https://apps.apple.com/cn/app/懒人帮-垃圾回收/id1470221572)
 
 > Easy meeting is an application that helps companies or companies intelligently arrange meeting rooms, resolve conflicts across departments, save manpower, time and costs, and achieve efficient office work. 
 
@@ -63,5 +63,5 @@ Plan to achieve
 
 ![未标题-2.png](https://upload-images.jianshu.io/upload_images/1419035-a1c93f7e36e90b60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
-#### [**download**](https://apps.apple.com/cn/app/id1479323067)
+#### [**AppStore**](https://apps.apple.com/cn/app/id1479323067)
 
