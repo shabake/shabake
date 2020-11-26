@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shabake" style="height:150px;">  
 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Mixed development
+* 喜欢写代码💻‍
+* 有点异想天开😇
+* 梦想是不上班
+* 希望有一台游戏机和拥有一整个房间的巧克力🎮
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shabake&hide=issues&show_icons=true)
 
 ### Current Job
 
